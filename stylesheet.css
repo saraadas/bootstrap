@@ -1,0 +1,43 @@
+.navbar {
+    background-color: #cccccc;
+    color: white;
+}
+body {
+    background-color: #373737;
+}
+.card-title {
+    background-color: #303030;
+    color: white;
+}
+.card-text {
+    background: #373737;
+    color: white;
+}
+.card-body {
+    display: inline-block
+        }
+img {
+    box-shadow: 5px;
+}
+.box-shadow {
+box-shadow: 0px 0px 5px ;
+align-items: center;
+
+
+}
+.page-footer {
+    color: white;
+    font-size: 10px;
+}
+.card-body {
+    background-color: #373737;
+}
+.card h-100 {
+    background-color: #373737;
+}
+.shadow-lg {
+    background-color: #373737;
+}
+.nav-item {
+color: white;
+}
